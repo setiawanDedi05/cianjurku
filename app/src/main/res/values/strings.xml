@@ -1,3 +1,34 @@
 <resources>
     <string name="app_name">Cianjurku</string>
+    <string name="restaurant">Restaurant</string>
+    <string name="coffee">Coffee Shop</string>
+    <string name="kid_friendly">Kid Friendly Place</string>
+    <string name="shopping_center">Shopping Center</string>
+    <string name="park">Park</string>
+    <string name="ujala">Ujala Coffee</string>
+    <string name="imah">Imah Coffee</string>
+    <string name="wardis">Wardis Coffee</string>
+    <string name="et_al">Et All Coffee</string>
+    <string name="starbuck">Starbuck Coffee</string>
+    <string name="ibc">Ikan Bakar Cianjur</string>
+    <string name="alam_sunda">Alam Sunda</string>
+    <string name="ampera">Ampera</string>
+    <string name="sari_rasa">Sari Rasa</string>
+    <string name="the_nice">The Nice</string>
+    <string name="cianjur_city_park">Cianjur City Park</string>
+    <string name="the_john">The John</string>
+    <string name="prawatasari">Taman Prawatasari</string>
+    <string name="alun_alun">Alun Alun Cianjur</string>
+    <string name="joglo">Taman Kreatif Joglo</string>
+    <string name="city_mall">City Mall</string>
+    <string name="hypermart">Hypermart</string>
+    <string name="ciplaz">Ciplaz</string>
+    <string name="category">Choose Category</string>
+    <string name="list_of_place">List of Place</string>
+    <string name="details">Details</string>
+    <string name="back_button">Back Button</string>
+    <string name="description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin luctus non augue vel posuere. Etiam est nibh, bibendum sit amet dapibus in, pretium ac ligula. Morbi accumsan risus ac enim consequat pellentesque sed vel velit. Suspendisse fringilla ipsum sit amet arcu auctor, in dapibus lacus tincidunt. Nullam lobortis ex eu lacus gravida ultrices. Proin ut est ac orci ultricies ornare. Donec ac imperdiet metus. Sed vitae sapien felis. Vivamus et condimentum tortor, ac tincidunt metus. Vestibulum in tempus massa, sit amet suscipit eros.
+Fusce non volutpat lorem. Etiam vitae velit ullamcorper, interdum eros a, ultrices odio. Praesent quis arcu a urna fringilla ultrices vitae vitae leo. Quisque justo felis, tempor elementum imperdiet et, fringilla vitae diam. Quisque rhoncus pulvinar dolor, id euismod augue scelerisque non. Donec placerat enim congue dui sodales interdum. Maecenas varius lorem eu fermentum iaculis. Ut maximus ligula enim, scelerisque vestibulum mauris aliquam eu. Nam libero neque, placerat in lacus non, blandit sagittis enim.
+Proin lacus lectus, tincidunt nec sapien vel, mattis finibus risus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Duis ut eros id turpis viverra sollicitudin eget id risus. Vestibulum vehicula tellus lacus, vel aliquet tellus iaculis vitae. Pellentesque pretium dictum tellus eu interdum. Mauris at sagittis libero. Praesent pulvinar laoreet nulla, a mollis lacus congue eu. Quisque felis magna, congue in ligula lobortis, ultrices bibendum justo. Sed at neque eu tellus euismod malesuada. Nulla sollicitudin vel enim quis tempus. Duis pulvinar, lectus sit amet porta pellentesque, mi turpis porttitor odio, in accumsan turpis nisl at tellus.
+Maecenas a sapien ligula. Quisque erat dolor, tincidunt finibus volutpat nec, feugiat ut justo. Aliquam pretium, ligula quis luctus efficitur, felis felis luctus augue, nec rhoncus leo augue quis velit. Nulla risus tellus, viverra quis tempor sed, pulvinar vitae urna. Aliquam pretium turpis eget dui rhoncus, eget interdum nisl ultrices. Vivamus molestie tortor ac augue laoreet consequat. Cras facilisis vestibulum tortor ac commodo.</string>
 </resources>
